@@ -1,0 +1,66 @@
+308 Literae Kepleri aliorumque mutuae
+
+basin in justa longitudine, quia (dato quadrato) certa ejus est longitudo.
+Ita plane in hoc negotio, si facerem unum ex 12 aequalibus cubis, cubum
+cubis aequare non possum. Consideremus casum in cossica. Jubear quae-
+rere 2 medias continue proportionales inter 2 et 3 extremas. Oportet ergo
+tales duas invenire, ut, quia 2><3 =6, altera in alteram itidem faciat 6 ;
+et ut prior illarum cum 3 tantum faciat, quantum quadratum posterioris;
+tertio, ut haec cum 2 tantum faciat quantum quadratum prioris (xy
+3
+
+= 6; 3x=y²3 2y =x²3 x = xs12). Jubear igitur quaerere radicem cubi-
+cam de 12, quod fieri nou potest3 arithmetice non, hoc enim est in· con-
+fesso 3 geometrice non, quia non, sicut ad quodlibet solidum, latus cubi
+aequale constitui potest. Dantur enim hic 12 cubi, quorum singulorum la-
+tus est 1. Si facerem ex 12 aequalibus cubis unum cubum, scio, me duas
+medias proportionales facturum. «Et natura ipsa dans et concedens cubum
+cubis 12 aequalem, admittit et 2 continue proportionales; illae tamen ne-
+sciuntur, quantisper nequit ab intellectu nostro fieri cubus cubis 12 aequa—
+lis, vel quotlibet aliis. In hoc ergo discrimen est, quod quadratum duobus vel
+quotlibet aliis aequale facere possum, cubum cubis aequare non possum,
+quod jam pridem probo. Hoc interjeci, me ipsum exercens in scribendo.
+Restat mihi probare, ne quadrata quidem talium duarum sciriposse. Qua-
+drata incognitarum quaero per proportionem planorum, quia scio, quod pro-
+portio planorum dupla sit proportionis linearum. Ut sicut prima nota (a)
+ad tertiam (c), sic quadratum praecognitum (a ²) ad quad1atum secundae (b ²).
+Et sicut b ad d sic b² ad c² Vides igitur, eo ipso quod mediae sunt,
+mensuram quadratorum fieri lineas incognitas ipsas, quae quaerebantur.
+Nam quia duplam proportionem ejus habemus, illa aliter in 4 terminis ne-
+quit haberi quam ut a ad c sic a² ad b²‚ et ut b ad d sic b² ad c'.
+
+ξιξ,
+
+Et in univer:sum quicunque modi sunt investigandi plana in 3 terminis ᾗ
+
+continue proportionalibus, omnes cessant et irriti sunt in 4 terminis, eo
+
+ipso, quod ter non est quater. Esto enim, ut quis putet, non quadrata .
+prima, sed secunda esse invicem ut numerus ad numerum (ut si 2 sit ³
+radiX, 2.2 =4 est quadratum primum, 4.4= 16 secundum), tunc ergo ·.
+
+ut prima ex proportionalibus continue ad quintam, sic quadratum pri-
+mae ad quadratum secundae; sed quinta est una ex mediis inter quartam
+
+et septimam [a (2), Ι), c, d(3), e, f, g, ergo septimus 4¹s2], quia biquadra- ’
+
+torum ratio quadrupla est rationis laterum et, ut ratio a ad e sic a* ad b⁴.
+
+Si ergo biquadrata ει4 et b* sunt, ut vult objectio, duo numeri, erunt a et “’
+
+e itidem numeri Sed e non est numerus, quia 3 ad 47, non ut cubus
+ad cubum; b, c non sunt numeri, cum a, d cubi non sint; ipsorum qua-
+dlata etiam non sunt numeri, quia sic b, c ipsi fuerint numeri, cum tamen
+d, g non sunt cubici. Soli cubi de b, c sunt numeri, quia media duo pro-
+portionalia inter 2 ad invicem cubos ipsa quidem numeri esse debent.
+Scimus ergo, quod b sit radix cubica de 12, c radix cubica de 183 id vero
+est nescire. Ac cum non sint plura quantitatis genera, nisi ex his mixta,
+concludo, nesciri debere omnia, quae sunt duarum mediarum (continue) pro-
+portionalium, praeter cubos, eosque nomine tantum. Latent ea in ratione
+infinitatis et iu ea suam habent subsistentiam ; quo magis mirum, terminari
+aliquid a non terminato. Itaque ignoratis rationibus septanguli fugiet hoc
+intellectum nostrum, quare et intellectum naturae (dico illam vim animo-
+rum et formarum, qua suorum corporum membra semper eodem modo figu-
+
+ 
+
